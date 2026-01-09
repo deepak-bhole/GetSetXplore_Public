@@ -25,12 +25,12 @@
     </g>
 
     <!-- Center Content -->
-    <text x="150" y="95" text-anchor="middle" font-family="Georgia, serif" font-weight="900" font-size="32" letter-spacing="1" stroke="none">KALSUBAI</text>
+    <text x="150" y="95" text-anchor="middle" font-family="Georgia, serif" font-weight="900" font-size="32" letter-spacing="1" stroke="none">{{PLACE}}</text>
     <text x="150" y="115" text-anchor="middle" font-family="Courier New, monospace" font-size="14" letter-spacing="1" opacity="0.9" stroke="none">SUMMIT 1646M</text>
 
     <!-- Bottom Section -->
     <line x1="25" y1="135" x2="275" y2="135" stroke-width="2" />
-    <text x="35" y="158" font-family="Courier New, monospace" font-weight="bold" font-size="16">12 OCT 24</text>
+    <text x="35" y="158" font-family="Courier New, monospace" font-weight="bold" font-size="16">{{DATE}}</text>
     <text x="265" y="158" text-anchor="end" font-family="Courier New, monospace" font-weight="bold" font-size="14" letter-spacing="1">CONFIRMED</text>
 
   </g>
